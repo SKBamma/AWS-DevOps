@@ -1,2 +1,2 @@
 # DevOps class
-learning git from github
+learnig git from github
