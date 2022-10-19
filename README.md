@@ -1,1 +1,2 @@
-# AWS-DevOps
+# DevOps class
+learning git
